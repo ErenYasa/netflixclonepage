@@ -5,7 +5,7 @@
 
 - Responsive layout
 
-- I don't know JS so just I took support for the accordion menu
+- I don't know JavaScript so just I took support for the accordion menu
 
 
 - If you see a bug pls fix it
