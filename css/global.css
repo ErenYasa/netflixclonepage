@@ -1,0 +1,153 @@
+/* #region RESET CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+h1,
+h2 {
+    color: #fff;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #757575;
+    font-size: 13px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+form {
+    max-width: 100%;
+}
+
+
+/* #endregion */
+
+/* #region HTML */
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* #endregion */
+
+/* #region ROOT */
+:root {
+    --blackColor: #000;
+}
+
+/* #endregion */
+
+/* #region TEXT-CENTER */
+.text-center {
+    text-align: center;
+}
+
+/* #endregion */
+
+/* #region WHITE-COLOR */
+.color-white {
+    color: #fff;
+}
+
+/* #endregion */
+
+/* #region BTN */
+.btn {
+    background-color: #e50914;
+    color: #fff;
+    font-size: .8rem;
+    letter-spacing: .1px;
+    border-radius: 2px;
+    cursor: pointer;
+    border: none;
+    padding: .8rem .9rem;
+}
+
+.btn::after {
+    content: "\f054";
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free";
+    font-size: .8rem;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.btn:hover {
+    background-color: #e23e47;
+}
+
+.btn-primary {
+    background-color: #e50914;
+    color: #fff;
+    font-size: .93rem;
+    letter-spacing: .1px;
+    cursor: pointer;
+    border-radius: 3px;
+    padding: .35rem .5em;
+    border: none;
+}
+
+.header-content button .icon-container {
+    position: relative;
+    margin-left: .5rem;
+}
+
+.btn .arrow {
+    width: .35rem;
+    height: .75rem;
+    font-size: 1rem;
+    position: absolute;
+    top: 2px;
+    left: 0;
+}
+
+.margin-responsive {
+    margin: 2rem 2rem 0rem 2rem;
+}
+
+/* #endregion */
+
+/* #region TEXT SIZE */
+.heading-small {
+    font-size: 1.125rem;
+}
+
+.heading-medium {
+    font-size: 1.70rem;
+}
+
+.heading-big {
+    font-size: 1.75rem;
+}
+
+/* #endregion */
+
+/* #region TEXT WEIGHT */
+.weight-400 {
+    font-weight: 400;
+}
+/* #endregion */
+
+/* #region BORDER-BOTTOM */
+.border-bottom {
+    border-bottom: 8px solid #222;
+}
+/* #endregion */
+
