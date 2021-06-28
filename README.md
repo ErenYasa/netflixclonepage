@@ -1,5 +1,5 @@
-# netflixclonepage
-Netflix clone page for education by me
+# NETFLIX CLONE PAGE
+#### Netflix clone page for education by me
 
 - I used Flexbox for layout
 
