@@ -2,6 +2,7 @@
 Netflix clone page for education by me
 
 -I used Flexbox for layout
+-Responsive layout
 
 -I don't know JS so just I took support for the accordion menu
 
